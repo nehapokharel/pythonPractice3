@@ -1,0 +1,7 @@
+student_name, registration_fee, enrolled_course, course_amount_paid, course_remaining_amount, course_status, amount_returned, current_student
+Shamaya, 1000, Arts, 15000, 500, running, False, True
+Sanam, 2000, law, 4000, 500, running, False, True
+Aayan, 2000, Computer Science and information technology, 40000, 0, completed, True, True
+Aashma, 1000, law, 45000, 0, running, False, True
+Ashim, 2000, Arts, 10000, 10000, running, False, True
+
